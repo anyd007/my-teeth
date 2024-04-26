@@ -49,6 +49,15 @@
         }
     }
 
+    .start-to-play{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap:  3px;
+        padding: 10px;
+    }
+
     @media screen and (max-width: 768px) {
       
         img {
